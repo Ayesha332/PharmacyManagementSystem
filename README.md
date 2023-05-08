@@ -1,1 +1,2 @@
 # PharmacyManagementSystem
+This application is built to be used mainly by two important roles in the pharmacy management system which are the administrator of the system and the cashier at the front end of the store. The application can be utilized by both of these users helping them administer patients into the database and retrieving the required medicine followed up by generating the bill. This application hence makes it easier to 
