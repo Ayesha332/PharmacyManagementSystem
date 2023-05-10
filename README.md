@@ -1,4 +1,8 @@
 # PharmacyManagementSystem
+
+This the readme file for my application called PharmacyManagementSystem with an SQL database called pharmacy connected to it.
+import pharmacy.bacpac
+
 This application is built to be used mainly by two important roles in the pharmacy management system which are the administrator of the system and the cashier at the front end of the store. The application can be utilized by both of these users helping them administer patients into the database and retrieving the required medicine followed up by generating the bill. This application hence makes it easier to implement the daily functions taking place in a pharmacy like searching for medicine availibility, checking for valid medicines, etc. Additonally, it deters from the traditional route of record keeping in books and rather takes a unique approach of data keeping by storing all the data in an electroic in-built system called the pharmacy management system. All the buttons and features of the application are described here.
 The administrator role can perform the below mentioned tasks using the below specified features:
 At first when the administrator logs in, he/she is taken into their respective portals with the specified buttons ( Dashboard, Add medicine, View Medicine, Order Medicine, View Orders, Medicine Validity Check, Log out. Each one of these buttons performs a specific function like the view medicine button displays the database containing valid medicines in the store whereas the order medicine allows the administrator to order the medicines low in stock. 
